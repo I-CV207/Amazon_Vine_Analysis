@@ -21,9 +21,9 @@ Afterwards an analysis was made using Pandas, the following results were obtaine
 
 Based on the results shown, it does not seems to be any positivity bias for reviews caused by the Vine program, as there are only 94 reviews this only represents the 0.2% of the total amount of considered reviews for this analysis, also 5 star Vine review percentage is not that high to have some significance in the reviews.
 
-Another way to look at this is by analyzing the following summary statistics.
+Another way to analyze this is by taking a look at the following summary statistics.
 
-![image](https://user-images.githubusercontent.com/83261520/135564099-f1a17197-471a-411d-b6b3-70eb3af5964a.png)
+![image](https://user-images.githubusercontent.com/83261520/135565538-4d87b2fd-75db-472d-9c67-4899ca22525e.png)
 
 ***Vine review statistics***
 
