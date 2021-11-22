@@ -2,7 +2,7 @@
 
 ## Overview of the analysis:
 
-The purpose of this project consist in choosing a dataset from a different variety of products to analyze. In this case, **Video Games** was choosen as our dataset, then we use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Afterwards Pandas was used to determine if there is any bias toward favorable reviews from Vine members in the dataset.
+The purpose of this project consist in choosing a dataset from a different variety of products to analyze. In this case, **Video Games** was choosen as our dataset, then we use PySpark to perform ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Afterwards Pandas was used to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 ## Results:
 From all the dataset some considerations were made.
